@@ -26,13 +26,10 @@ pip install colorama
 🚀 কিভাবে ইউজ করবেন
 
 ```bash
-# টুল ডাউনলোড
 git clone https://github.com/nafiz1000x/NAFIZ--Delete-TOOLS.git
 
-# ফোল্ডারে যান
 cd NAFIZ--Delete-TOOLS
 
-# টুল রান
 python nafiz_delete_tool.py
 ```
 
